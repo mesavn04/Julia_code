@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Python_code",
+			"path": "..\\Python_code"
+		},
+		{
+			"name": "Julia_code",
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
