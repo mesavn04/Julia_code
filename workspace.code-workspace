@@ -6,11 +6,13 @@
 		},
 		{
 			"name": "Julia_code",
-			"path": "."
+			"path": "..\\Julia_code"
 		}
 	],
 	"settings": {
 		"jupyter.jupyterServerType": "local",
-		"julia.executablePath": "D:/Software/Portableapp/JuliaPort/julia.exe"
+		"julia.executablePath": "D:/Software/Portableapp/JuliaPort/julia.exe",
+		"julia.execution.codeInREPL": true,
+		"julia.execution.inlineResultsForCellEvaluation": true
 	}
 }
