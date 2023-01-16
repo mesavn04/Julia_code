@@ -14,5 +14,12 @@
 		"julia.executablePath": "D:/Software/Portableapp/JuliaPort/julia.exe",
 		"julia.execution.codeInREPL": true,
 		"julia.execution.inlineResultsForCellEvaluation": true
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-toolsai.jupyter-renderers",
+			"ms-toolsai.jupyter",
+			"tabnine.tabnine-vscode"
+		]
 	}
 }
