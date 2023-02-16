@@ -19,7 +19,8 @@
 		"recommendations": [
 			"ms-toolsai.jupyter-renderers",
 			"ms-toolsai.jupyter",
-			"tabnine.tabnine-vscode"
+			"tabnine.tabnine-vscode",
+			"alefragnani.bookmarks"
 		]
 	}
 }
