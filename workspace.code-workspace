@@ -7,6 +7,10 @@
 		{
 			"name": "Julia_code",
 			"path": "..\\Julia_code"
+		},
+		{
+			"name": "stock_level",
+			"path": "../stock_level"
 		}
 	],
 	"settings": {
